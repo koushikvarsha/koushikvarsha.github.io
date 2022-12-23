@@ -5,15 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+debug: true
 # Site Settings
 locale                   : "en-US"
 title                    : "Varsha Koushik"
 title_separator          : "-"
 name                     : &name "Varsha Koushik"
-description              : &description "Assistant Professor"
+description              : &description "testing where this personal description goes"
 url                      : https://koushikvarsha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "koushikvarsha/koushikvarsha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -68,26 +68,26 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: 
 
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Varsha Koushik"
-  avatar           : "profile.png"
-  bio              : "Assistant Professor, Mathematics and Computer Science"
-  location         : "Colorado College"
-  employer         :
+  name             : "Dr. Varsha Koushik"
+  avatar           : "bio.jpg"
+  bio              : "Assistant Professor of Mathematics and Computer Science"
+  location         :
+  employer         : "Colorado College"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=bnSvx1UAAAAJ&hl=en"
-  email            : vkoushik@coloradocollege.edu
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bnSvx1UAAAAJ"
+  email            : "vkoushik@coloradocollege.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -106,15 +106,16 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : #http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@KoushikVarsha"
+  twitter          : "KoushikVarsha"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
@@ -255,7 +256,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
