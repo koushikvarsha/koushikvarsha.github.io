@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-debug: true
+debug: true 
 # Site Settings
 locale                   : "en-US"
 title                    : "Varsha Koushik"
@@ -14,6 +14,7 @@ name                     : &name "Varsha Koushik"
 description              : &description "testing where this personal description goes"
 url                      : https://koushikvarsha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "koushikvarsha/koushikvarsha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
@@ -68,7 +69,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: 
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,13 +81,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Varsha Koushik"
-  avatar           : "bio.jpg"
-  bio              : "Assistant Professor of Mathematics and Computer Science"
-  location         :
+  name             : "Varsha Koushik."
+  avatar           : "profile.jpeg"
+  bio              : "Assistant Professor of Computer Science"
+  location         : 
   employer         : "Colorado College"
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=bnSvx1UAAAAJ"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=bnSvx1UAAAAJ&hl=en"
   email            : "vkoushik@coloradocollege.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,7 +116,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
 
 
 # Reading Files
