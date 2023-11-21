@@ -19,10 +19,12 @@ I also co-maintain the [cs-pui website](https://cs-pui.github.io/), created by [
 
 ### Recent News
 
-<div markdown="1" class="news">
+<div markdown="1">
 - **Dec:** Teaching CP274: Software Design.
 - **Nov:** Attending the CRA-WP Early Career Mentoring Workshop in Chicago. 
 - **Oct:** Attending ASSETS 2023 in New York.
 - **Oct:** Teaching CP341: Foundations of Human-Computer Interaction. 
 - **Sep:** Co-teaching CP115: Computational Thinking with Prof. Blake Jackson. 
+
 </div>
+
