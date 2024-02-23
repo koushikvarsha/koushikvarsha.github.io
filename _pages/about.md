@@ -20,6 +20,9 @@ I also co-maintain the [cs-pui website](https://cs-pui.github.io/), created by [
 ### Recent News
 
 <div markdown="1">
+- **Feb**: Teaching CP 274: Software Design 
+- **Jan**: Presenting a talk at the Block 5 Faculty Symposium in Colorado College
+- **Jan**: Particpating in the CRA LEVEL UP Workshop.
 - **Dec:** Teaching CP274: Software Design.
 - **Nov:** Attending the CRA-WP Early Career Mentoring Workshop in Chicago. 
 - **Oct:** Attending ASSETS 2023 in New York.
